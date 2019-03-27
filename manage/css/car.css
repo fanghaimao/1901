@@ -1,0 +1,42 @@
+.table{
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.btn-primary{
+    margin-left: 12%;
+}
+.ok_btn{
+    display: none;
+}
+.cancel_btn{
+    display: none;
+}
+.show{
+    display: none!important;
+    border: 1px solid black;
+    width: 80%;
+}
+.eidt .data_num{
+    display: none;
+}
+.eidt .show{
+    display: inline-block !important;
+}
+.eidt .edit_btn , .eidt .del_btn{
+    display: none;
+}
+.eidt .ok_btn,.eidt .cancel_btn{
+    display: inline-block;
+}
+h3 {
+    width: 40%;
+    float: right;
+}
+h2{
+    width: 300px;
+    margin:  0 auto;
+}
+.btn-primary {
+    margin-left: 20%;
+}

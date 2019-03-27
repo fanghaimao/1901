@@ -1,0 +1,41 @@
+.tabcel{
+    width: 78%;
+    margin: 50px auto ;
+}
+.tabcel tr td{
+    text-align: center;
+}
+.pagination{
+    padding-left: 50%;
+    margin-left: -200px;
+}
+#wid{
+    width: 78% ;
+}
+.btn-primary{
+    margin-left: 12%;
+}
+.ok_btn{
+    display: none;
+}
+.cancel_btn{
+    display: none;
+}
+.show{
+    display: none!important;
+}
+.eidt span{
+    display: none;
+}
+.eidt .show{
+    display: inline-block !important;
+}
+.eidt .edit_btn , .eidt .del_btn{
+    display: none;
+}
+.eidt .ok_btn,.eidt .cancel_btn{
+    display: inline-block;
+}
+.car {
+    float: right;
+}
